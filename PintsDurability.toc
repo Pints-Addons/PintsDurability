@@ -1,0 +1,14 @@
+## Interface: 11508, 11509, 16001
+## Title: |cffd4a017Pint's|r Durability
+## Notes: A flashing warning when your gear wears down to 50%, 25% and broken - with the item, before it costs you a fight. /pdur
+## Author: Jake (Pint's Add-ons, built with Claude)
+## Version: 1.0
+## X-Curse-Project-ID: 1788524
+## IconTexture: Interface\Icons\Ability_Repair
+## AddonCompartmentFunc: PintsDurability_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: PintsDurability_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: PintsDurability_OnAddonCompartmentLeave
+## X-License: GPL-3.0
+## SavedVariables: PintsDurabilityDB
+
+PintsDurability.lua

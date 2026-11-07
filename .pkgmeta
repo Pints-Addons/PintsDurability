@@ -1,0 +1,5 @@
+package-as: PintsDurability
+
+manual-changelog:
+  filename: CHANGELOG.txt
+  markup-type: plain

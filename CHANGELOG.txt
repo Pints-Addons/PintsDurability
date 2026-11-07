@@ -1,0 +1,14 @@
+Pint's Durability - Changelog
+
+v1.0
+- First release.
+- A flashing warning when your most-worn gear drops to 50%, to 25%, and when something breaks: the screen edges glow
+  (yellow, orange, red), a big warning names the item, and the raid-warning sound plays. Each warning shows once;
+  repairing sets them up again.
+- Logging in with worn gear gives a quiet note in chat.
+- Settings window (/pdur): warnings on/off, screen flash, big text, sound, login reminder, and a Test button.
+  Also in Esc > Options > AddOns, and in the add-on menu on WoW Forever's minimap.
+- Option: warn for each piece of gear separately. Each item gets its own 50% / 25% / broken warnings; items
+  reaching a step together share one warning; swapping an item starts that slot fresh.
+- /pdur status shows your most-worn item and average; /pdur test shows the three warnings; /pdur on / off;
+  /pdur each; /pdur sound, /pdur flash, /pdur text switch each part.
